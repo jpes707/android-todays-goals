@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Goals</string>
+    <string name="save_goal">Save goal</string>
+    <string name="cancel">Cancel</string>
+    <string name="today_s_goals">Today\'s goals</string>
+    <string name="click_to_set_goal_1">(Click to set goal 1)</string>
+    <string name="click_to_set_goal_3">(Click to set goal 3)</string>
+    <string name="goal_3">Goal 3</string>
+    <string name="click_to_set_goal_2">(Click to set goal 2)</string>
+    <string name="goal_1">Goal 1</string>
+    <string name="goal_2">Goal 2</string>
+    <string name="reset_goals">Reset goals</string>
+</resources>
